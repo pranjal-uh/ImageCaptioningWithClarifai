@@ -70,14 +70,14 @@ After obtaining your API key, head over to the security settings by clicking on 
 
 ### Deploy the WebApp
 
-•	Configure GitHub Pages:
+### Configure GitHub Pages:
 o	Go to your repository’s main page on GitHub.
 o	Click on the “Settings” tab.
 o	Scroll down to the “GitHub Pages” section in the left sidebar.
 o	In the “Source” dropdown menu, select the branch containing your web app’s source code. Usually, you’ll choose the ‘main’ branch.
 o	Click the “Save” button. GitHub Pages will now use the selected branch to deploy your web app.
 
-•	Verify the Deployment:
+### Verify the Deployment:
 o	After saving settings, scroll down to the “GitHub Pages” section again. You will see a message indicating the URL where your web app is deployed. It should look like: ‘https://yourusername.github.io/repositoryname’.
 o	Click on the provided URL to access your deployed web app. You should see your web app running on GitHub Pages.
 
